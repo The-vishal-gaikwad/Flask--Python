@@ -1,0 +1,4 @@
+# This code contain two form 1-app.py is my first app of flask contains simple login form 
+# app_form_for_student.py is my 2nd form which contaning student from.
+# Student_form.py - This is Also simple login form for Student 
+Requriment-Install Flask in VS.code by creating Virtual environment -pip install flask 
