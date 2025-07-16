@@ -1,4 +1,5 @@
 from flask import Flask, render_template, request
+# Initial Flask form integration with HTML templates and login logic
 
 app = Flask(__name__)
 
